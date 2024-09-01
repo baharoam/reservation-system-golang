@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/baharoam/reservation/pkg/config"
-	"github.com/baharoam/reservation/pkg/handlers"
-	"github.com/baharoam/reservation/pkg/render"
+	"github.com/baharoam/reservation/internal/config"
+	"github.com/baharoam/reservation/internal/handlers"
+	"github.com/baharoam/reservation/internal/render"
 	"github.com/alexedwards/scs/v2"
 	"fmt"
 	"log"
